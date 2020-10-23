@@ -6,4 +6,4 @@ This project aims at  allowing the user to analyze Donald Trump related, Twitter
  * a Jupyter IPython explanatory Notebook that contains all the behind the scenes data-analysis including the data prepocessing.
 
  * Link to an Observables notebook that contains interactive visualizations:
- https://observablehq.com/d/9b3fa89d8b0f71bf
+https://observablehq.com/@yasminakerkeb/donald-trump-and-twitter
